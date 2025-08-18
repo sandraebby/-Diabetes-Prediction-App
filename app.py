@@ -4,6 +4,7 @@ import streamlit as st
 import pandas as pd
 import joblib
 
+
 # ✅ Page config must be here, first Streamlit call
 st.set_page_config(page_title="🩺 Diabetes Prediction App", page_icon="🩸")
 
